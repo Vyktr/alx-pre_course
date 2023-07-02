@@ -1,0 +1,4 @@
+git checkout master \ngit pull origin master \ntouch up_to_date
+git checkout master 
+git pull origin master 
+touch up_to_date
